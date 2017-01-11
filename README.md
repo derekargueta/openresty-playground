@@ -10,3 +10,6 @@ vagrant ssh
 cd /vagrant
 make
 ```
+
+TODO:
+- script to dynamically rebuild openresty with new modules
